@@ -2,7 +2,6 @@
   "name": "demo-tanstack-zod-adapter-2026-05-12",
   "version": "0.0.0",
   "private": true,
-  "description": "Demo manifest pinning @tanstack/zod-adapter@1.166.15 for indexing. DO NOT INSTALL.",
   "dependencies": {
     "@tanstack/zod-adapter": "1.166.15"
   }
